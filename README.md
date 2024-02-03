@@ -41,5 +41,3 @@ I am a Full Stack Python developer with a solid educational background.
   - **Proof:** [View Full Stack Python Diploma](https://oneapp-uploads.s3.eu-north-1.amazonaws.com/449fe58c-243d-40d9-8b66-cbaf8130de7a.pdf)
 - Texnikum - Telekommunikatsiya texnologiyalar: Associate's Degree, GPA 8/10
   - **Proof:** [View Diploma](https://oneapp-uploads.s3.eu-north-1.amazonaws.com/86ac3f93-feec-41e3-8923-6162d1a9cd56.pdf)
-
-*Note: Links to diplomas and certifications are placeholders and need to be updated with the actual links.*
