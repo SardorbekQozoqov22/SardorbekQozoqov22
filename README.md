@@ -5,7 +5,7 @@
 - **Date of Birth:** 10.08.2002
 - **LinkedIn:** [Sardorbek Qozoqov](https://www.linkedin.com/in/sardorbekqozoqov)
 - **E-mail:** sardorbekqozoqov2281@gmail.com
-- **GitHub:** [SardorbekDeveloper22](https://github.com/SardorbekDeveloper22)
+- **My old github account:** [SardorbekDeveloper22](https://github.com/SardorbekDeveloper22)
 - **Location:** Namangan, Uzbekistan
 
 ## About Me
