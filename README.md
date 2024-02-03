@@ -6,7 +6,6 @@
 - **LinkedIn:** [Sardorbek Qozoqov](https://www.linkedin.com/in/sardorbekqozoqov)
 - **E-mail:** sardorbekqozoqov2281@gmail.com
 - **GitHub:** [SardorbekDeveloper22](https://github.com/SardorbekDeveloper22)
-- **Phone Number:** +998996312126
 - **Location:** Namangan, Uzbekistan
 
 ## About Me
