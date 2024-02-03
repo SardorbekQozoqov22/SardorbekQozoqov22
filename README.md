@@ -21,18 +21,6 @@ I am a Full Stack Python developer with a solid educational background.
   - **Rich Text Editing with CKEditor:** Integrated CKEditor for a sophisticated and user-friendly editing interface, enhancing the content creation and editing experience.
   - **Database Caching for Optimization:** Leveraged database caching techniques to enhance performance, ensuring swift retrieval of data and overall system responsiveness.
 
-### Mohirdev
-- **GPA:** 10/10
-- **Certification:** [View Diploma](#)
-
-### Texnikum - Telekommunikatsiya texnologiyalar
-- **GPA:** 8/10
-- **Associate's Degree:** [View Diploma](#)
-
-## Licenses and Certificates
-- **Raqamli Oromgoh**
-- **MohirFest**
-
 ## Languages
 - Uzbek (Native)
 - English (Basic)
@@ -50,10 +38,8 @@ I am a Full Stack Python developer with a solid educational background.
 
 ## Education
 - Full Stack Python: Improved skills in Django, Django Rest Framework (DRF), Fast'PI, PostgreSQL, Bootstrap, CSS, HTML, JavaScript, and Python. Proficient in version control with Git and GitHub.
-  - **Proof:** [View Full Stack Python Diploma](#)
-- Mohirdev: GPA 10/10
-  - **Proof:** [View Diploma](#)
+  - **Proof:** [View Full Stack Python Diploma](https://oneapp-uploads.s3.eu-north-1.amazonaws.com/449fe58c-243d-40d9-8b66-cbaf8130de7a.pdf)
 - Texnikum - Telekommunikatsiya texnologiyalar: Associate's Degree, GPA 8/10
-  - **Proof:** [View Diploma](#)
+  - **Proof:** [View Diploma](https://oneapp-uploads.s3.eu-north-1.amazonaws.com/86ac3f93-feec-41e3-8923-6162d1a9cd56.pdf)
 
 *Note: Links to diplomas and certifications are placeholders and need to be updated with the actual links.*
